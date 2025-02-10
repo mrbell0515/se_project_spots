@@ -24,8 +24,30 @@
 
 .profile__edit-btn {
   margin-top: auto;
+  gap: 8px;
+  opacity: 70%;
+  font-family: poppins;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
+  border: none;
+  background-color: transparent;
 }
 
 .profile__add-btn {
   margin-left: auto;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
+  width: 149px;
+  height: 52px;
+  border-radius: 8px;
+  padding: 18px 32px 18px 32px;
+  gap: 8px;
+  background-color: #212121;
+  color: #fff;
+  display: flex;
+  align-self: end;
+  text-wrap: nowrap;
 }
