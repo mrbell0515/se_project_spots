@@ -3,4 +3,8 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 16px;
+  width: 104px;
+  height: 16px;
+  display: flex;
+  justify-content: center;
 }
