@@ -26,7 +26,7 @@
 }
 
 .card__title {
-  font-color: #212121;
+  color: #212121;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -37,6 +37,11 @@
 }
 
 @media screen and (max-width: 627px) {
+  .card__like-btn {
+    width: 20px;
+    height: 18px;
+  }
+
   .card__image {
     height: 288px;
   }
