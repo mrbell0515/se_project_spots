@@ -46,7 +46,7 @@
   color: #212121b2;
 }
 
-.profile__edit-btn {
+.profile__edit-btn:hover {
   margin-top: auto;
   gap: 8px;
   opacity: 70%;
@@ -60,6 +60,8 @@
   display: flex;
   color: #212121;
   cursor: pointer;
+  background-color: #212121;
+  opacity: 80%;
 }
 
 .profile__add-btn {
@@ -80,10 +82,8 @@
   text-wrap: nowrap;
   justify-content: center;
   align-items: center;
-}
-button:hover {
-  background-color: #212121;
-  opacity: 80%;
+  border: none;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 627px) {
