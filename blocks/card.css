@@ -26,6 +26,9 @@
   opacity: 40%;
 }
 
+.card__like-btn:hover {
+}
+
 .card__title {
   color: #212121;
   font-weight: 500;
