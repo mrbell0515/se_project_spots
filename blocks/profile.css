@@ -63,6 +63,9 @@
 }
 
 .profile__edit-btn:hover {
+  width: 84px;
+  height: 16px;
+  color: #212121;
 }
 
 .profile__add-btn {
@@ -88,6 +91,15 @@
 }
 
 .profile__add-btn:hover {
+  color: #212121;
+  padding: 18px 32px 18px 32px;
+  opacity: 80%;
+  gap: 8px;
+  top: 37px;
+  left: 199px;
+  border-radius: 8px;
+  width: hug (157px);
+  height: hug (52px);
 }
 
 @media screen and (max-width: 627px) {
