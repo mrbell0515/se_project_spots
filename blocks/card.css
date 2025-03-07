@@ -27,6 +27,8 @@
 }
 
 .card__like-btn:hover {
+  cursor: pointer;
+  opacity: 100%;
 }
 
 .card__title {
